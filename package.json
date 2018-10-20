@@ -1,0 +1,23 @@
+{
+  "name": "patatrap-clone",
+  "version": "1.0.0",
+  "description": "This is a clone of Patatrap made by Vaibhav Sing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "patatrap-clone"
+  },
+  "keywords": [
+    "patatrap",
+    "howler.js",
+    "paper.js"
+  ],
+  "author": "VaibhavSingh24",
+  "license": "ISC",
+  "dependencies": {
+    "paper": "^0.11.8"
+  }
+}
